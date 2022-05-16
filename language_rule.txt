@@ -1,0 +1,43 @@
+s/karte/card/g
+s/laufwerk/drive/g
+s/speicher/memory/g
+s/geheugen/memory/g
+s/mémoire/memory/g
+s/clé/key/g
+s/connectés/connected/g
+s/montres/watch/g
+s/lectura/reading/g
+s/noir/black/g
+s/vitesse/speed/g
+s/lecteur/reader/g
+s/sous/cash/g
+s/bleu/blue/g
+s/clés/keys/g
+s/ cle / key /g
+s/disque/disk/g
+s/ dur / hard /g
+s/ memoire / memory /g
+s/ memorie / memory /g
+s/memoria/memory/g
+s/seule/one/g
+s/carte/card/g
+s/chiavetta/key/g
+s/classe/class/g
+s/bianco/white/g
+s/nero/black/g
+s/seconde/second/g
+s/portatile/portable/g
+s/adattatore/adapter/g
+s/lettura/reading/g
+s/velocità/speed/g
+s/velocidades/speed/g
+s/adaptador/adapter/g
+s/velocidad/speed/g
+s/cartes/cards/g
+s/tarjeta/card/g
+s/scheda/card/g
+s/karta/card/g
+s/minneskort/memory card/g
+s/adaptateur/adapter/g
+s/adaptor/adapter/g
+s/memory/memory /g
